@@ -4,8 +4,10 @@
         "xstring": "cpp",
         "iostream": "cpp",
         "cmath": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "limits": "cpp"
     },
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "code-runner.defaultLanguage": ""
+    "code-runner.defaultLanguage": "",
+    "C_Cpp.errorSquiggles": "disabled"
 }
