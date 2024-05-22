@@ -12,8 +12,7 @@ This repository contains all the code I've written during my 57 days challenge f
 | 5-7  | HTML and CSS                    |                                                                                                   | Learned HTML and CSS, and some projects |
 | 8    | Array                           | [View Code](https://github.com/Anupam0-0/57DaysChallenge/tree/main/Day-8%20Array)                  |                                        |
 | 9    | More Array                      |                                                                                                   | These were high-level, skipped some    |
-| 10   | Binary Search                   | [View Code](https://github.com/Anupam0-0/57DaysChallenge/tree/main/Day-10%20Binary%20Search)       |                                        |
-| 11   | More Binary Search              |                                                                                                   | To be determined (TBD)                 |
+|10-11 | Binary Search                   | [View Code](https://github.com/Anupam0-0/57DaysChallenge/tree/main/Day-10%20Binary%20Search)       |                                        |
 
 ---
 
