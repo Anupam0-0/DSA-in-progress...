@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "vector": "cpp"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "code-runner.defaultLanguage": ""
+}
