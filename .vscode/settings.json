@@ -5,7 +5,8 @@
         "iostream": "cpp",
         "cmath": "cpp",
         "vector": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "xutility": "cpp"
     },
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "code-runner.defaultLanguage": "",
